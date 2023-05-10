@@ -24,9 +24,7 @@
 <a href="https://github.com/132982317/etcd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=132982317&repo=etcd&theme=cobalt2" />
 </a>
-<a href="https://github.com/132982317/yolov5-traffic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=132982317&repo=yolov5-traffic&theme=cobalt2" />
-</a>
+
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
 
